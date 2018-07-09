@@ -600,4 +600,6 @@ F 3 "" H 5750 1450 50  0001 C CNN
 	1    5750 1450
 	1    0    0    -1  
 $EndComp
+Text Notes 6950 5200 1    60   ~ 0
+NOTE: Input line will be modulated. No more than 1A supply current! 
 $EndSCHEMATC
