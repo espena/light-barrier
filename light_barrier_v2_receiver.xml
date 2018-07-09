@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/espena/Dropbox/projects/light_barrier/light_barrier_v2_receiver.sch</source>
+    <date>sø. 10. juni 2018 kl. 13.00 +0200</date>
+    <tool>Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>light_barrier_v2_receiver.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J2">
+      <value>POWER</value>
+      <libsource lib="light_barrier_v2" part="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0C79CD</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>1N4001</value>
+      <libsource lib="light_barrier_v2" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0C7CF6</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>4700µF</value>
+      <libsource lib="light_barrier_v2" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0C7FF8</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>VS1838</value>
+      <footprint>Opto-Devices:IRReceiver_Vishay_MINICAST-3pin</footprint>
+      <libsource lib="light_barrier_v2" part="VS1838"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0C82A2</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>100</value>
+      <libsource lib="light_barrier_v2" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0C8377</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>100k</value>
+      <libsource lib="light_barrier_v2" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0C87E1</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>47µF</value>
+      <libsource lib="light_barrier_v2" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0C8D7C</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <libsource lib="light_barrier_v2" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0C96E6</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>TLC555CP</value>
+      <libsource lib="light_barrier_v2" part="TLC555CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0C9F04</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <libsource lib="light_barrier_v2" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0CBE29</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>10µF</value>
+      <libsource lib="light_barrier_v2" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0CC50A</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>6,2k</value>
+      <libsource lib="light_barrier_v2" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0CCE29</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>100k</value>
+      <libsource lib="light_barrier_v2" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0CD67D</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>TLC555CP</value>
+      <libsource lib="light_barrier_v2" part="TLC555CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0CF6EB</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <libsource lib="light_barrier_v2" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0CFFC7</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>6,8k</value>
+      <libsource lib="light_barrier_v2" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0D27F1</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>TIP120</value>
+      <footprint>TO_SOT_Packages_THT:TO-220_Vertical</footprint>
+      <libsource lib="light_barrier_v2" part="TIP120"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0D2D52</tstamp>
+    </comp>
+    <comp ref="RV3">
+      <value>100k</value>
+      <libsource lib="light_barrier_v2" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0DB14D</tstamp>
+    </comp>
+    <comp ref="RV2">
+      <value>100k</value>
+      <libsource lib="light_barrier_v2" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0DB645</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>1N4001</value>
+      <libsource lib="light_barrier_v2" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0DB7AA</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>1N4001</value>
+      <libsource lib="light_barrier_v2" part="D_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0DB837</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <libsource lib="light_barrier_v2" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0DC1EA</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>RED</value>
+      <libsource lib="light_barrier_v2" part="LED_ALT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B119D14</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>1k</value>
+      <libsource lib="light_barrier_v2" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B119E9B</tstamp>
+    </comp>
+    <comp ref="TP3">
+      <value>10 Hz</value>
+      <libsource lib="light_barrier_v2" part="TEST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B11D63F</tstamp>
+    </comp>
+    <comp ref="TP4">
+      <value>154 Hz -13%</value>
+      <libsource lib="light_barrier_v2" part="TEST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B11DB2D</tstamp>
+    </comp>
+    <comp ref="TP5">
+      <value>154 Hz</value>
+      <libsource lib="light_barrier_v2" part="TEST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B153811</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>BC557</value>
+      <footprint>TO_SOT_Packages_THT:TO-92_Molded_Narrow</footprint>
+      <libsource lib="light_barrier_v2" part="BC557"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B184FD8</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="light_barrier_v2" part="BC557">
+      <aliases>
+        <alias>BC556</alias>
+        <alias>BC558</alias>
+        <alias>BC559</alias>
+        <alias>BC560</alias>
+        <alias>BC327</alias>
+        <alias>BC328</alias>
+      </aliases>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC557</field>
+        <field name="Footprint">TO_SOT_Packages_THT:TO-92_Molded_Narrow</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="C">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="CP">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="Conn_01x02">
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="D_ALT">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_ALT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="LED_ALT">
+      <footprints>
+        <fp>LED*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_ALT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="LM555">
+      <aliases>
+        <alias>ICM7555</alias>
+        <alias>LMC555xM</alias>
+        <alias>LMC555xMM</alias>
+        <alias>LMC555xN</alias>
+        <alias>TLC555CD</alias>
+        <alias>TLC555CP</alias>
+        <alias>TLC555CPS</alias>
+        <alias>NA555</alias>
+        <alias>NE555</alias>
+        <alias>SE555</alias>
+        <alias>SA555</alias>
+      </aliases>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*Pitch1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*3x3mm*Pitch0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM555</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TR" type="input"/>
+        <pin num="3" name="Q" type="output"/>
+        <pin num="4" name="R" type="input"/>
+        <pin num="5" name="CV" type="input"/>
+        <pin num="6" name="THR" type="input"/>
+        <pin num="7" name="DIS" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="POT">
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="TEST">
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TEST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="TIP120">
+      <aliases>
+        <alias>TIP121</alias>
+        <alias>TIP122</alias>
+      </aliases>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TIP120</field>
+        <field name="Footprint">TO_SOT_Packages_THT:TO-220_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="light_barrier_v2" part="VS1838">
+      <footprints>
+        <fp>IRReceiver?Vishay?MINICAST*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">VS1838</field>
+        <field name="Footprint">Opto-Devices:IRReceiver_Vishay_MINICAST-3pin</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Vs" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="light_barrier_v2">
+      <uri>/home/espena/Dropbox/projects/light_barrier/lib_sch/light_barrier_v2.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C6-Pad1)">
+      <node ref="U3" pin="3"/>
+      <node ref="R8" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C7" pin="1"/>
+    </net>
+    <net code="2" name="Net-(C8-Pad1)">
+      <node ref="Q2" pin="1"/>
+      <node ref="U4" pin="6"/>
+      <node ref="U4" pin="7"/>
+      <node ref="R7" pin="1"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="3" name="+5V">
+      <node ref="D6" pin="1"/>
+      <node ref="U4" pin="4"/>
+      <node ref="U4" pin="8"/>
+      <node ref="R9" pin="2"/>
+      <node ref="RV3" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="U5" pin="8"/>
+      <node ref="R10" pin="2"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="4" name="Net-(C10-Pad1)">
+      <node ref="U4" pin="5"/>
+      <node ref="C10" pin="1"/>
+    </net>
+    <net code="5" name="Net-(Q3-Pad1)">
+      <node ref="R11" pin="1"/>
+      <node ref="Q3" pin="1"/>
+    </net>
+    <net code="6" name="Net-(D5-Pad2)">
+      <node ref="R12" pin="1"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="7" name="Net-(Q2-Pad2)">
+      <node ref="R9" pin="1"/>
+      <node ref="U3" pin="1"/>
+      <node ref="U4" pin="2"/>
+      <node ref="TP3" pin="1"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+    <net code="8" name="Net-(R11-Pad2)">
+      <node ref="U5" pin="3"/>
+      <node ref="R11" pin="2"/>
+      <node ref="TP5" pin="1"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="Q3" pin="3"/>
+      <node ref="U5" pin="1"/>
+      <node ref="J2" pin="2"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="U3" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="U4" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C8" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D6-Pad2)">
+      <node ref="TP4" pin="1"/>
+      <node ref="D6" pin="2"/>
+      <node ref="J2" pin="1"/>
+      <node ref="Q3" pin="2"/>
+    </net>
+    <net code="11" name="Net-(D3-Pad1)">
+      <node ref="D4" pin="2"/>
+      <node ref="RV3" pin="3"/>
+      <node ref="U5" pin="7"/>
+      <node ref="D3" pin="1"/>
+      <node ref="RV3" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D3-Pad2)">
+      <node ref="RV2" pin="2"/>
+      <node ref="RV2" pin="1"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="13" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2"/>
+      <node ref="RV2" pin="3"/>
+      <node ref="D4" pin="1"/>
+      <node ref="U5" pin="6"/>
+      <node ref="U5" pin="2"/>
+    </net>
+    <net code="14" name="Net-(C11-Pad1)">
+      <node ref="U5" pin="5"/>
+      <node ref="C11" pin="1"/>
+    </net>
+    <net code="15" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1"/>
+      <node ref="U5" pin="4"/>
+      <node ref="U4" pin="3"/>
+      <node ref="R12" pin="2"/>
+    </net>
+  </nets>
+</export>

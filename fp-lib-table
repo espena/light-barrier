@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name logo)(type KiCad)(uri /home/espena/Dropbox/projects/light_barrier/lib_fp.pretty/logo15mm.mod)(options "")(descr "espena logo"))
+)
