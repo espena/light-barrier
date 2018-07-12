@@ -1,5 +1,5 @@
 # Light barrier
-Garage door light barrier. KiCad project with schematics and PCB layout.
+Garage door light barrier. KiCad project with schematics and PCB layout. This project is shared under GNU general public license version 3, and is provided "as is", with no warranties what so ever. Use this material completely at your own risk.
 
 
 ## Transmitter circuit
