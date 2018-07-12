@@ -15,7 +15,7 @@ Garage door light barrier. KiCad project with schematics and PCB layout.
 |  D2           | LED            | Green, 5mm                     |     -  |
 |  D3           | IR-LED         | TSAL 6100                      |     -  |
 |  J1           | Terminal block | KF128 2-pin, 5 mm pitch        |     -  |
-| JP1           | Jumper         | 1x2 pin header                 |     -  |
+| JP1           | Jumper         | 1x2 pin header with jumper     |     -  |
 |  Q1           | Transistor     | BC338 NPN BJT                  |     -  |
 |  R1           | Resistor       | Metal film, 1% tolerance       |    1kΩ |
 |  R2           | Resistor       | Metal film, 1% tolerance       |   24kΩ |
