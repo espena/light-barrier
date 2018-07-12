@@ -29,6 +29,9 @@ Garage door light barrier. KiCad project with schematics and PCB layout.
 |  U1           | IC             | TLC555 timer circuit           |     -  |
 |  U2           | IC             | TLC555 timer circuit           |     -  |
 
+PCB layout for the transmitter is shared via
+[OSH Park](https://oshpark.com/shared_projects/Knkobcg6)
+
 
 ## Receiver circuit
 
@@ -59,3 +62,6 @@ Garage door light barrier. KiCad project with schematics and PCB layout.
 |  U1           | IC             | VS1838 IR receiver             |     -  |
 |  U2           | IC             | TLC555 timer circuit           |     -  |
 |  U3           | IC             | TLC555 timer circuit           |     -  |
+
+PCB layout for the receiver is shared via
+[OSH Park](https://oshpark.com/shared_projects/EA8wav7z)
